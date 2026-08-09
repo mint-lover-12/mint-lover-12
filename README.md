@@ -3,11 +3,11 @@
 ![Header](./skid.png)
 
 ## What I enjoy:
-### DRM - Digital Rights Management
+### Java shenanigans
+java obfuscation/protection is fun
 
-This is better known as piracy preventation, I enjoy code protection
 
-### Malware Analysis / Creation
+ok bye
 
-I find deobfuscating (and sometimes remapping) malware (native stuff is yucky). Creating malware can also be fun
 
+> no longer selling obfuscation, if you're here for that go away.
